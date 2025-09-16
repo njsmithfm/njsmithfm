@@ -1,4 +1,4 @@
-### Hello, I'm NJ! 
+### Hello, I'm NJ
 ### Information Designer and Data Journalist
 
 [Portfolio](https://njsmithfm.github.io) | [LinkedIn](https://www.linkedin.com/in/njsmithfm/)
