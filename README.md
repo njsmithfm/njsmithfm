@@ -2,7 +2,7 @@
 
 [Portfolio](https://njsmithfm.github.io) | [LinkedIn](https://www.linkedin.com/in/njsmithfm/)
 
-I practice data visualization and web development, and have a background in editorial design and cooperative business.
+I practice data visualization and web development, and I have a background in editorial design, creative writing, and philosophy.
 
 ### Some Projects and Publications
 
