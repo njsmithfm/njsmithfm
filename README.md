@@ -1,9 +1,8 @@
-### Hello, I'm NJ!
-### Information Designer and Data Journalist
+### Hello! I'm NJ, and Information Designer and Data Journalist
 
 [Portfolio](https://njsmithfm.github.io) | [LinkedIn](https://www.linkedin.com/in/njsmithfm/)
 
-Hello! I'm NJ, an data visualization developer with a background in editorial design and cooperative business.
+I practice data visualization and web development, and have a background in editorial design and cooperative business.
 
 ### Some Projects and Publications
 
