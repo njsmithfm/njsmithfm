@@ -1,6 +1,6 @@
 ### Hello! I'm NJ, an Information Designer and Data Journalist
 
-[Portfolio](https://njsmithfm.github.io) | [LinkedIn](https://www.linkedin.com/in/njsmithfm/)
+[Portfolio](https://njsmithfm.github.io) | [LinkedIn](https://www.linkedin.com/in/njsmithfm/) | [Resume](https://drive.google.com/file/d/1RHeRSdRgiuyixJPi3QEXhd_-hzVmutra/view?usp=sharing)
 
 I practice data visualization and web development, and I have a background in editorial design, creative writing, and philosophy.
 
