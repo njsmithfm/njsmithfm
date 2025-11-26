@@ -2,7 +2,7 @@
 
 [Portfolio](https://njsmithfm.github.io) | [LinkedIn](https://www.linkedin.com/in/njsmithfm/) | [Blog](https://flowersofmemory.com)
 
-I practice data visualization and web development, and I have a background in writing, editorial design, and philosophy.
+I practice data visualization and web development, and I have a background in writing, editorial, and philosophy.
 
 ### Some Projects and Publications
 
