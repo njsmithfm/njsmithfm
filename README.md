@@ -7,6 +7,7 @@ I practice data visualization and web development, and I have a background in wr
 ### Some Projects and Publications
 
 - [NYC Bike Crashes](https://nycbikecrashes.pythonanywhere.com/), a Plotly-Dash application I made mapping cyclist safety across NYC
+- [MTA ADA Tracker}(https://njsmithfm.github.io/MTA_ADA.html), a Datawrapper dashboard tracking ADA station operability with weekly GitHub action automations
 - [What Is Earth Overshoot Day?](https://njsmithfm.github.io/EarthOvershootLander.html), a scrolly data journalism piece I wrote explaining Earth Overshoot Day
 - [An Experimental Music Community Grows in Brooklyn](https://publicseminar.org/2023/12/an-experimental-music-community-grows-in-brooklyn/), journalism & photography about International Anthem Recording Company
 - [Freeing Time](https://publicseminar.org/2022/11/freeing-time/), an interview I published with Oliver Burkeman about his book _Four Thousand Weeks_
