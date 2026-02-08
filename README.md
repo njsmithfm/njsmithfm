@@ -1,4 +1,4 @@
-### Hello! I'm NJ, a Data Journalist and Information Designer
+### Hello! I'm NJ, an Information Designer
 
 [Portfolio](https://njsmithfm.github.io) | [LinkedIn](https://www.linkedin.com/in/njsmithfm/) | [Blog](https://flowersofmemory.com)
 
